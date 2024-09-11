@@ -45,7 +45,7 @@
       <a href="#" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1 class="sitename">GODGETWOLF.ONLINE</h1>
+        <h1 class="sitename">GADGET WOLF LTD</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -75,7 +75,7 @@
         <div class="carousel-item active">
           <div class="carousel-container">
 
-            <h2 class="animate__animated animate__fadeInDown">👋🏻 Welcome To ☞ <span> godgetwolf.online 👨‍💻</span></h2>
+            <h2 class="animate__animated animate__fadeInDown">👋🏻 Welcome To ☞ <span> GADGET WOLF LTD 👨‍💻</span></h2>
             <h4 class="animate__animated animate__fadeInUp">WEB DEVELOPMENT: Marketing Digital</h4>
             {{-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> --}}
           </div>
@@ -84,7 +84,7 @@
         <!-- Slide 2 -->
         <div class="carousel-item">
           <div class="carousel-container">
-            <h2 class="animate__animated animate__fadeInDown">👋🏻 Welcome To ☞ <span> godgetwolf.online 👨‍💻</h2>
+            <h2 class="animate__animated animate__fadeInDown">👋🏻 Welcome To ☞ <span> GADGET WOLF LTD 👨‍💻</h2>
             <h4 class="animate__animated animate__fadeInUp">WEB DEVELOPMENT: Website ⌨️ And Mobile Application</h4>
             {{-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> --}}
           </div>
@@ -93,7 +93,7 @@
         <!-- Slide 3 -->
         <div class="carousel-item">
           <div class="carousel-container">
-            <h2 class="animate__animated animate__fadeInDown">👋🏻 Welcome To ☞ <span> godgetwolf.online 👨‍💻</h2>
+            <h2 class="animate__animated animate__fadeInDown">👋🏻 Welcome To ☞ <span> GADGET WOLF LTD 👨‍💻</h2>
             <h4 class="animate__animated animate__fadeInUp">WEB DEVELOPMENT: Infographie��</h4>
             {{-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> --}}
           </div>
@@ -1018,7 +1018,7 @@
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
                 <h3>Call Us</h3>
-                <p>+447293516389</p>
+                <p>+447544340965</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -1026,7 +1026,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Us</h3>
-                <p>contact@godgetwolf.online</p>
+                <p>contact@gadgetwolf.store</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -1074,7 +1074,7 @@
 
   <footer id="footer" class="footer dark-background">
     <div class="container">
-      <h3 class="sitename">GODGETWOLF</h3>
+      <h3 class="sitename">GADGET WOLF LTD</h3>
       <p>Feel free To Contact , You can contact📠 us by phone📞, WhatsApp💬, or email📧, we will be happy to contact you😍!</p>
       <div class="social-links d-flex justify-content-center">
         <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1085,7 +1085,7 @@
       </div>
       <div class="container">
         <div class="copyright">
-          <span>Copyright</span> <strong class="px-1 sitename">GODGETWOLF</strong> <span>All Rights Reserved</span>
+          <span>Copyright</span> <strong class="px-1 sitename">GADGET WOLF LTD</strong> <span>All Rights Reserved</span>
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
